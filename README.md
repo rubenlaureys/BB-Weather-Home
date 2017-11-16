@@ -3,9 +3,8 @@
 
 To use this module, add it to the modules array in the config/config.js file:
 
-modules: [
-	{
-		module: "currentweather",
+		{
+		module: "BB-Weather-Home",
 		
 		position: "top_right",	// This can be any of the regions.
 		
@@ -22,4 +21,3 @@ modules: [
 			appid: "abcde12345abcde12345abcde12345ab" //openweathermap.org API key.
 		}
 	}
-]
